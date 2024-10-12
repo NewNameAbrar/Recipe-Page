@@ -95,6 +95,7 @@ body{
 .table div{
   display: flex;
   border-bottom: 1px solid rgb(200,200,200);
+  padding-left: 4%;
 }
 .value{
   color:brown;
